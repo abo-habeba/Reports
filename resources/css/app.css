@@ -1,0 +1,14 @@
+.d-f-c {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    align-content: center;
+    flex-wrap: wrap;
+    flex-direction: column;
+}
+
+.d-f-r {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
